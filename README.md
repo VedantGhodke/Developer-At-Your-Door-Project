@@ -1,16 +1,17 @@
-# DeveloperAtYourDoor
-Angular and Spring-boot project helps to find developers at reasonable cost.
+# Developer At Your Door Project Using Angular 7
 
-## Get started
+This Angular 7 and Spring-Boot project helps to find developers at reasonable cost.
+
+## Getting started
 
 ### Clone the repo
 
 ```shell
-git clone https://github.com/vinaysomawat/DeveloperAtYourDoor
-cd DeveloperAtYourDoor/frontend
+git clone https://github.com/VEDANTGHODKE/Developer-At-Your-Door-Using-Angular-7
+cd Developer-At-Your-Door-Using-Angular-7/frontend
 ```
 
-### Install npm packages
+### Installation of npm packages
 
 Install the `npm` packages described in the `package.json` and verify that it works:
 
