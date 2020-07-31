@@ -4,11 +4,11 @@ This Angular 7 and Spring-Boot project helps to find developers at reasonable co
 
 ## Getting started
 
-### Clone the repo
+### Clone the repository
 
 ```shell
-git clone https://github.com/VEDANTGHODKE/Developer-At-Your-Door-Using-Angular-7
-cd Developer-At-Your-Door-Using-Angular-7/frontend
+git clone https://github.com/VEDANTGHODKE/Developer-At-Your-Door-Project
+cd Developer-At-Your-Door-Project/frontend
 ```
 
 ### Installation of npm packages
