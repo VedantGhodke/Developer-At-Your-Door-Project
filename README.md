@@ -1,13 +1,13 @@
 # DeveloperAtYourDoor
-Angular and Spring-boot project helps to find developers at reasonable cost.
+This is an AngularJS and Spring-boot based project which helps clients find developers at reasonable costs.
 
 ## Get started
 
 ### Clone the repo
 
 ```shell
-git clone https://github.com/vinaysomawat/DeveloperAtYourDoor
-cd DeveloperAtYourDoor/frontend
+git clone https://github.com/VEDANTGHODKE/Developer-At-Your-Door
+cd Developer-At-Your-Door/frontend
 ```
 
 ### Install npm packages
