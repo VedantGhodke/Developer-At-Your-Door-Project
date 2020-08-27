@@ -1,9 +1,9 @@
-# DeveloperAtYourDoor
+# Developer At Your Door
 This is an AngularJS and Spring-boot based project which helps clients find developers at reasonable costs.
 
 ## Get started
 
-### Clone the repo
+### Clone the repository
 
 ```shell
 git clone https://github.com/VEDANTGHODKE/Developer-At-Your-Door
